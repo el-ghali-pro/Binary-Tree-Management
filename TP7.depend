@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1702811611 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp3\tp7\arbre.c
+	"arbre.h"
+
+1702811475 c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp3\tp7\arbre.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1702811697 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp3\tp7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+
+1702812054 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp6 arbre\arbre.c
+	"arbre.h"
+
+1702812011 c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp6 arbre\arbre.h
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+
+1703015680 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp6 arbre\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbre.h"
+
